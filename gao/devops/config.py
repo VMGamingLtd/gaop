@@ -1,5 +1,5 @@
 TEST_SERVER_NAME="usrv"
-SSH_KEY_FILE_NAME= "/Users/Milan.Bella/.ssh/id_rsa"
+SSH_KEY_FILE_NAME= "xxxxxxxxxxxxxxxxxxxxxx"
 GAO_USER_NAME="gao"
 
 GAO_BUILD_ASSET_BUNDLES_FOLDER="../gao/Assets/AssetBundles"
@@ -33,5 +33,5 @@ GAOP_PRIVATE_SSH_KEY="./.ssh/id_rsa"
 
 GAOP_SSH_KEYS_FOLDER="gao/ssh_gaop"
 
-GAOP_REPO="git@212.24.97.13:repos/gaop.git"
+GAOP_REPO="git@000.000.0.00:repos/gaop.git"
 
